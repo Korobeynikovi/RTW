@@ -1,0 +1,12 @@
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusTW.exe
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusTW.deps.json
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusTW.runtimeconfig.json
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusTW.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusTW.dll
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusTW.pdb
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusTW.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusTW.AssemblyInfo.cs
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusTW.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusTW.dll
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusTW.pdb
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusTW.genruntimeconfig.cache

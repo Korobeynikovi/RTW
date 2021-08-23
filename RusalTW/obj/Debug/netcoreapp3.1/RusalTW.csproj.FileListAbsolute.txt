@@ -1,0 +1,13 @@
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusalTW.exe
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusalTW.deps.json
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusalTW.runtimeconfig.json
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusalTW.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusalTW.dll
+C:\Users\Илья\source\repos\RusalTW\RusalTW\bin\Debug\netcoreapp3.1\RusalTW.pdb
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusalTW.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusalTW.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusalTW.AssemblyInfo.cs
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusalTW.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusalTW.dll
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusalTW.pdb
+C:\Users\Илья\source\repos\RusalTW\RusalTW\obj\Debug\netcoreapp3.1\RusalTW.genruntimeconfig.cache
